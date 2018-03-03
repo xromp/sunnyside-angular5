@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+/* @import '~bootstrap/dist/css/bootstrap.min.css'; */
+
+/* local */
+/* @import '../bower_components/bootstrap/dist/css/bootstrap.min.css';
+@import '../bower_components/font-awesome/css/font-awesome.min.css';
+@import '../bower_components/nprogress/nprogress.css';
+@import '../bower_components/iCheck/skins/flat/green.css';
+@import '../build/css/custom.css'; */
+
+/* @import '../bower_components/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css'; */
+/* @import '../bower_components/jqvmap/dist/jqvmap.min.css'; */
+/* @import '../bower_components/bootstrap-daterangepicker/daterangepicker.css'; */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
