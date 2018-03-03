@@ -5,6 +5,8 @@ import { HttpModule } from '@angular/http';
 import { RouterModule } from '@angular/router';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
+import { MaterialDesignModule } from './modules/material-design/material-design.module';
+
 import { AppRoutingModule } from './app.routing';
 import { AppComponent } from './app.component';
 
@@ -23,6 +25,7 @@ import { MasterModule } from './modules/master/master.module';
     FormsModule,
     HttpModule,
     RouterModule,
+    MaterialDesignModule,
     AppRoutingModule,
     DashboardModule,
     ProfileModule,
